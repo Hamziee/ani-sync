@@ -1,3 +1,4 @@
 tests/*
 build/*
 ani_sync.egg-info/*
+dist/*
