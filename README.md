@@ -7,7 +7,7 @@ Welcome to **ani-sync**, the syncing tool I made to keep my anime watch progress
 ## Features
 
 - **Sync Your Progress**: Keep track of what you’ve watched with ani-cli across your PC, phone or other devices (samsung smart fridge maybe?).
-- **Cloud Storage**: Syncs progress to a remote server by default (`ani-sync.hamzie.site:25507`).
+- **Cloud Storage**: Syncs progress to a remote server by default (`ani-sync.hamzie.site`).
 - **Arguments Compatibility**: Run `ani-sync` with the same arguments as `ani-cli` and more.
 - **Open Source**: Both the client and server are open-source because trust matters.
 
