@@ -24,7 +24,12 @@ If you’re privacy-focused (for anime? really?), you can host your own server. 
 
 ## Setup & Installation
 
-### Clone and install:
+### [easy method] PyPi:
+```bash
+pip install ani-sync
+```
+
+### [method 2] Clone and install:
 ```bash
 git clone https://github.com/Hamziee/ani-sync.git
 cd ani-sync
