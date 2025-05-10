@@ -7,7 +7,7 @@ Welcome to **ani-sync**, the syncing tool I made to keep my anime watch progress
 ## Features
 
 - **Sync Your Progress**: Keep track of what you’ve watched with ani-cli across your PC, phone or other devices (samsung smart fridge maybe?).
-- **Cloud Storage**: Syncs progress to a remote server by default (`ani-sync.hamzie.site`).
+- **Cloud Storage**: Syncs progress to a remote server by default (`services-anisync.hamzie.net`).
 - **Arguments Compatibility**: Run `ani-sync` with the same arguments as `ani-cli` and more.
 - **Open Source**: Both the client and server are open-source because trust matters.
 
@@ -15,7 +15,7 @@ Welcome to **ani-sync**, the syncing tool I made to keep my anime watch progress
 
 ## How It Works
 
-ani-sync acts as a wrapper around ani-cli, handling syncing automatically before and after your anime sessions. By default, it uses `ani-sync.hamzie.site` to store and authenticate your data. The server saves your progress as plain text files, yes, I could *technically* read them, but I don’t care about your anime habits. You’ll just have to trust me the same way you trust big corporations. But I’ve got better things to do then look what episode you are at on Naruto. 
+ani-sync acts as a wrapper around ani-cli, handling syncing automatically before and after your anime sessions. By default, it uses `services-anisync.hamzie.net` to store and authenticate your data. The server saves your progress as plain text files, yes, I could *technically* read them, but I don’t care about your anime habits. You’ll just have to trust me the same way you trust big corporations. But I’ve got better things to do then look what episode you are at on Naruto. 
 
 If you’re privacy-focused (for anime? really?), you can host your own server. Check out the server code here: [Hamziee/ani-sync-server](https://github.com/Hamziee/ani-sync-server). (don't expect anything good)
 
