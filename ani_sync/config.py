@@ -7,7 +7,7 @@ TOKEN_PATH = os.path.expanduser("~/.ani-sync/token")
 
 # Default configuration
 DEFAULT_CONFIG = {
-    "server_url": "https://ani-sync.hamzie.site",
+    "server_url": "https://services-anisync.hamzie.net",
 }
 
 def init_config():
